@@ -8,5 +8,5 @@ in any kind of environment.</br>
 
 
  📫 How to reach me by email: ... yousaf2018@namal.edu.pk </br>
- 📫 How to reach me by LinkedIn: ... [](https://www.linkedin.com/in/mahmood-yousaf/)</br>
- 📫 How to reach me by Instagram: ... [](https://www.instagram.com/yousaf_mahmood/)</br>
+ 📫 How to reach me by : ... [LinkedIn](https://www.linkedin.com/in/mahmood-yousaf/)</br>
+ 📫 How to reach me by : ... [Instagram](https://www.instagram.com/yousaf_mahmood/)</br>
