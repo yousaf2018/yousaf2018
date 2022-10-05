@@ -61,9 +61,6 @@
 
 ### Database Tools
 <p
-     <a href="" target="_blank">
-    <img alt="Markdown" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-  </a>
     <a href="" target="_blank">
     <img alt="Markdown" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
