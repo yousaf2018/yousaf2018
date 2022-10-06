@@ -155,7 +155,7 @@
 
  </p>
  
- ### Mobile applications development
+ ### Android applications development
 <p
   
   <a href="" target="_blank">
@@ -163,6 +163,23 @@
   </a>
  </p>
  
+ 
+ 
+### Desktop applications development
+<p
+  
+  <a href="" target="_blank">
+    <img alt="" src="https://img.shields.io/badge/-Electron%20JS-red?style=for-the-badge&logo=electron&logoColor=white">
+  </a>
+ </p>
+   <a href="" target="_blank">
+    <img alt="" src="https://img.shields.io/badge/-pyqt-green?style=for-the-badge&logo=pyqt&logoColor=white">
+  </a>
+ </p>
+ 
+ <p
+  
+
  
  ### Cloud Platforms
 <p
@@ -182,8 +199,30 @@
   
 </p>
  
+ ### Web applications development
+<p
+  
+  <a href="" target="_blank">
+    <img alt="" src="https://img.shields.io/badge/-Bootstrap-red?style=for-the-badge&logo=Bootstrap&logoColor=white">
+  </a>
 
-	 
+<a href="" target="_blank">
+    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  </a>
+   <a href="" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  </a>
+  <a href="" target="_blank">
+    <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  </a>
+      </a>
+    <a href="" target="_blank">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  </a>
+    <a href="https://www.mysql.com/">
+	<img alt="MySQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  </a>
+ </p>
 
 ----
 
