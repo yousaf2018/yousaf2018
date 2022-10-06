@@ -155,6 +155,15 @@
 
  </p>
  
+ ### Mobile applications development
+<p
+  
+  <a href="" target="_blank">
+    <img alt="" src="https://img.shields.io/badge/-Android%20native%20application%20development%20using%20java-blue?style=for-the-badge&logo=android&logoColor=white">
+  </a>
+ </p>
+ 
+ 
  ### Cloud Platforms
 <p
    
