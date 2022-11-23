@@ -65,7 +65,7 @@
     <img alt="Markdown" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
     <a href="" target="_blank">
-    <img alt="Markdown" src="https://img.shields.io/badge/-Firbase-yellow?style=for-the-badge&logo=Firebase&logoColor=white">
+    <img alt="Markdown" src="https://img.shields.io/badge/-Firebase-yellow?style=for-the-badge&logo=Firebase&logoColor=white">
   </a>
 
 </p>
