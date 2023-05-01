@@ -205,6 +205,9 @@
   <a href="" target="_blank">
     <img alt="" src="https://img.shields.io/badge/-Bootstrap-red?style=for-the-badge&logo=Bootstrap&logoColor=white">
   </a>
+<a href="" target="_blank">
+	<img alt="react" src="https://img.shields.io/badge/react-%23E34F26.svg?style=for-the-badge&logo=react&logoColor=white">
+</a>
 
 <a href="" target="_blank">
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
