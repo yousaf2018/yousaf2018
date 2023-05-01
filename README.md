@@ -157,48 +157,7 @@
 
  </p>
  
- ### Android applications development
-<p
-  
-  <a href="" target="_blank">
-    <img alt="" src="https://img.shields.io/badge/-Android%20native%20application%20development%20using%20java-blue?style=for-the-badge&logo=android&logoColor=white">
-  </a>
- </p>
  
- 
- 
-### Desktop applications development
-<p
-  
-  <a href="" target="_blank">
-    <img alt="" src="https://img.shields.io/badge/-Electron%20JS-red?style=for-the-badge&logo=electron&logoColor=white">
-  </a>
- </p>
-   <a href="" target="_blank">
-    <img alt="" src="https://img.shields.io/badge/-pyqt-green?style=for-the-badge&logo=pyqt&logoColor=white">
-  </a>
- </p>
- 
- <p
-  
-
- 
- ### Cloud Platforms
-<p
-   
-
-  <a href="" target="_blank">
-    <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-  </a>
-  <a href="" target="_blank">
-    <img alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-  </a>
-
-
-
-
-  
-</p>
  
  ### Web applications development
 <p
@@ -232,6 +191,51 @@
     <img alt="redis" src="https://img.shields.io/badge/redis-F7DF1E?style=for-the-badge&logo=redis&logoColor=black">
   </a>
  </p>
+ 
+ 
+ 
+  ### Cloud Platforms
+<p
+   
+
+  <a href="" target="_blank">
+    <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+  </a>
+  <a href="" target="_blank">
+    <img alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+  </a>  
+</p>
+ 
+ 
+ 
+ ### Android applications development
+<p
+  
+  <a href="" target="_blank">
+    <img alt="" src="https://img.shields.io/badge/-Android%20native%20application%20development%20using%20java-blue?style=for-the-badge&logo=android&logoColor=white">
+  </a>
+ </p>
+ 
+ 
+ 
+### Desktop applications development
+<p
+  
+  <a href="" target="_blank">
+    <img alt="" src="https://img.shields.io/badge/-Electron%20JS-red?style=for-the-badge&logo=electron&logoColor=white">
+  </a>
+ </p>
+   <a href="" target="_blank">
+    <img alt="" src="https://img.shields.io/badge/-pyqt-green?style=for-the-badge&logo=pyqt&logoColor=white">
+  </a>
+ </p>
+ 
+ <p
+  
+
+ 
+
+ 
 
 ----
 
