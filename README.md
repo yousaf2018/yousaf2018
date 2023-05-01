@@ -227,6 +227,9 @@
     <a href="https://www.mysql.com/">
 	<img alt="MySQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   </a>
+    <a href="" target="_blank">
+    <img alt="redis" src="https://img.shields.io/badge/redis-F7DF1E?style=for-the-badge&logo=redis&logoColor=black">
+  </a>
  </p>
 
 ----
