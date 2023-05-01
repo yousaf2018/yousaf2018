@@ -21,7 +21,7 @@
   </p>
 
 
-<p >Self motivated individual having keen interest in machine learning, deep learning, and applications development. I am looking for opportunities to maximize my potential and contribute to the growth of an organization. I really enjoy learning advanced technologies to keep my skills up to date.I have a great deal of flexibility in working in any kind of environment
+<p >I am machine learning engineer with a bachelor's degree in computer science from Namal University Mianwali. I am currently working at Neurog, where I has gained hands-on experience in computer vision and machine learning. With a strong background in computer science, I has developed a deep understanding of machine learning algorithms and techniques and skilled in using a variety of tools and technologies to build and deploy machine learning models. In my role at Neurog, I has demonstrated the ability to translate business needs into practical machine learning solutions and find innovative ways to apply machine learning to real-world challenges. I am dedicated to delivering high-quality work on every project.
 </p>
 
 
