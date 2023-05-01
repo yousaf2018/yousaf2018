@@ -145,7 +145,9 @@
 
 ### Backend Tools
 <p
-  
+    <a href="" target="_blank">
+    <img alt="nodejs" src="https://img.shields.io/badge/node-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  </a>
   <a href="" target="_blank">
     <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
   </a>
@@ -210,9 +212,7 @@
 <a href="" target="_blank">
 	<img alt="react" src="https://img.shields.io/badge/react-%23E34F26.svg?style=for-the-badge&logo=react&logoColor=white">
 </a>
-  <a href="" target="_blank">
-    <img alt="nodejs" src="https://img.shields.io/badge/node-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  </a>
+
 <a href="" target="_blank">
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   </a>
