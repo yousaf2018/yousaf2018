@@ -21,7 +21,7 @@
   </p>
 
 
-<p >I am machine learning engineer with a bachelor's degree in computer science from Namal University Mianwali. I am currently working at Neurog, where I have gained hands-on experience in computer vision and machine learning. With a strong background in computer science, I have developed a deep understanding of machine learning algorithms and techniques and skilled in using a variety of tools and technologies to build and deploy machine learning models. In my role at Neurog, I have demonstrated the ability to translate business needs into practical machine learning solutions and find innovative ways to apply machine learning to real-world challenges. I am dedicated to delivering high-quality work on every project.
+<p >I am machine learning engiI am currently pursuing a PhD in Biomedical Engineering, building on a strong foundation in computer science and machine learning. With a bachelor's degree from Namal University Mianwali, I previously worked in the software industry as a Machine Learning Engineer, where I gained hands-on experience in computer vision, AI model development, and end-to-end deployment. During this time, I also sharpened my leadership and problem-solving skills, contributing to real-world projects that bridged innovation and practical impact. My passion lies in applying AI to complex biomedical challenges and driving research with real-world value.
 </p>
 
 
