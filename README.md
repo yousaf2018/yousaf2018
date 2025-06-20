@@ -21,7 +21,7 @@
   </p>
 
 
-<p >I am machine learning engiI am currently pursuing a PhD in Biomedical Engineering, building on a strong foundation in computer science and machine learning. With a bachelor's degree from Namal University Mianwali, I previously worked in the software industry as a Machine Learning Engineer, where I gained hands-on experience in computer vision, AI model development, and end-to-end deployment. During this time, I also sharpened my leadership and problem-solving skills, contributing to real-world projects that bridged innovation and practical impact. My passion lies in applying AI to complex biomedical challenges and driving research with real-world value.
+<p >I am currently pursuing a PhD in Biomedical Engineering, building on a strong foundation in computer science and machine learning. With a bachelor's degree from Namal University Mianwali, I previously worked in the software industry as a Machine Learning Engineer, where I gained hands-on experience in computer vision, AI model development, and end-to-end deployment. During this time, I also sharpened my leadership and problem-solving skills, contributing to real-world projects that bridged innovation and practical impact. My passion lies in applying AI to complex biomedical challenges and driving research with real-world value.
 </p>
 
 
